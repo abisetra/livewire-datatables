@@ -20,7 +20,7 @@
 ![screenshot](resources/images/screenshot.png "Screenshot")
 
 ## Requirements
-- [Laravel 7, 8 or 9](https://laravel.com/docs/9.x)
+- [Laravel 7, 8, 9, or 10](https://laravel.com/docs/9.x)
 - [Livewire](https://laravel-livewire.com/)
 - [Tailwind](https://tailwindcss.com/)
 - [Alpine JS](https://github.com/alpinejs/alpine)
